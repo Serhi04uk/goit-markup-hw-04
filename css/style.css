@@ -471,6 +471,22 @@ background: var(--accent-color-upgrade);
 }
 
 
+    .section-four-div {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 72px;
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+        font-style: normal;
+
+    }
+
   /* ICONS */
 
   .social-list {
@@ -577,4 +593,5 @@ background: var(--accent-color-upgrade);
     align-items: center;
     Width: 264px;
     Height: 112px;
+    margin-bottom: 8px;
    }
