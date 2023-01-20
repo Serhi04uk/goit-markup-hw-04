@@ -28,6 +28,12 @@ body {
   letter-spacing: 0.02em;
 }
 
+.body {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #31d0aa;
+}
+
 /* ======= */
 
 h1,
@@ -447,6 +453,9 @@ button {
   height: 4px;
   background: #404bbf;
   border-radius: 2px;
+
+  position: relative;
+  top: 24px;
 }
 
 .section-four-div {
